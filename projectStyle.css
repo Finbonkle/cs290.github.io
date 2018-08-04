@@ -1,0 +1,17 @@
+body {
+	text-align:center;
+}
+body img{
+	width:200px;
+	background-color:#ccc;
+	box-shadow: 2px 2px 2px #555;
+	align:middle;
+}
+body h2{
+	font-family: verdana, tahoma;
+	text-align:center;
+}
+
+.carousel-inner > .item > img{
+	margin:0;
+}
